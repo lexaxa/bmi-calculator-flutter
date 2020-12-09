@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'InputPage.dart';
-import 'constants.dart';
+import 'package:bmi_calculator/screens/input_page.dart';
+import 'package:bmi_calculator/constants.dart';
 
 class CardWidget extends StatelessWidget {
   CardWidget({this.color, this.cardChild, this.onPress});
